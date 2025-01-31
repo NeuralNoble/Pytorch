@@ -1,0 +1,6 @@
+.idea
+.venv
+data/fashion-mnist_train.csv
+data/fashion-mnist_test.csv
+data
+.DS_Store
